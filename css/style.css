@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(237, 253, 255);
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 1000%;
+    font-weight: 50;
+    position: relative;
+    margin-left: 30%;
+    margin-bottom: 5%;
+    color: rgb(0, 186, 233);
+}
+
+h2{
+    font-family: sans-serif;
+    position: relative;
+    margin-left: 31%;
+    margin-bottom: 5%;
+    color: rgb(0, 186, 233);
+}
+
+h4{
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: 500px;
+    position: relative;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+
+p{
+    position: relative;
+    margin-left: 18%;
+    margin-bottom: 5%;
+}
+
+hr{
+    border-top: 4px solid rgb(0, 186, 233);;
+    
+}
+
+
+form{
+
+    position: relative;
+    
+    margin-bottom: 5%;
+}
+
+#footerDiv{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(68, 201, 253); 
+    position: fixed;
+    bottom: 0pt;
+    
+}
+#footerFont{
+    font-family: sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: 10%;
+    left: 30%;
+    color: rgb(0, 89, 116);
+}
+
+label{
+    align-self: start;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+
+}
+
+.caixaDigitar{
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+
+}
+
+
+#pizza{
+    float: left;
+    border-radius: 8px;
+    position: relative;
+    top: -60px;
+
+}
+
+#massa{
+    float: left;
+    border-radius: 8px;
+    position: relative;
+    top: -70px;
+    
+}
+
+#vinho{
+    float: left;
+    border-radius: 8px;
+    position: relative;
+    top: -60px;
+}
+
+.botaofooter{
+    position: relative;
+    top: 1px;
+    left: 30%;
+}
